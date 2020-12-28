@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-![](https://i.imgur.com/rq9s1IB.gif)
+![tip](https://user-images.githubusercontent.com/47406262/103232004-ec512000-496b-11eb-89b6-a6e52929d302.gif)
 
 
 ## Notes
