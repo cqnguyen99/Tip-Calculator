@@ -36,10 +36,6 @@ Here's a walkthrough of implemented user stories:
 ![tip](https://user-images.githubusercontent.com/47406262/103232004-ec512000-496b-11eb-89b6-a6e52929d302.gif)
 
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2020] [Chi Nguyen]
